@@ -32,11 +32,6 @@ h2 {
     padding: 0px 0px 35px;
 }
 
-article {
-    padding-bottom: 25px;
-    width: 320px;
-}
-
 .nav-hdr {
     background-color: rgb(235,235,235);
     padding: 23px 0px 23px;
@@ -111,7 +106,7 @@ article {
     float: left;
     width: 25%;
     left: 175px;
-    margin: 0px 15px 0px;
+    margin: 0px 15px 15px;
 }
 
 .fig-sdbar {
